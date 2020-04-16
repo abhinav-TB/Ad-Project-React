@@ -15,16 +15,6 @@ export default function Categories() {
     <div className="popular_catagory_area">
         <div className="container">
             <div className="row">
-                <div className="col-xl-12">
-                    <div className="section_title mb-60 text-center">
-                        <p>Discover</p>
-                        <h3>
-                            Most Popular Categories
-                        </h3>
-                    </div>
-                </div>
-            </div>
-            <div className="row">
                 <div className="col-xl-3 col-md-4 col-lg-3">
                     <div className="single_catagory">
                         <div className="thumb">
